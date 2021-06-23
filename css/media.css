@@ -1,0 +1,279 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*------common h2 & p start-------*/
+	h2{
+		font-size: 30px;
+		color: #000000;
+		text-transform: uppercase;
+	}
+	.blog-p1 {
+	    font-size: 16px;
+	}
+	.hr {
+	    margin: 15px 0 20px;
+	}
+	/*------common h2 & p end-------*/
+
+	/*-------------header section start--------------*/
+	.menu {
+	    margin-top: 35px;
+	}
+	.menu ul li a{
+        text-align: left;
+	    padding: 0 0px !important;
+    }
+    /*-------------header section end--------------*/
+
+    /*-------------home slider section start--------------*/
+    .hero {
+	    padding: 0 0 30px;
+	}
+    .c_c_cap {
+	    bottom: 5%;
+	    text-align: left;
+	    width: 50%;
+	}
+    .c_c_cap h2 {
+	    margin: -10px 0 -5px;
+	    font-size: 16px;
+	}
+    .c_c_cap h1 {
+	    font-size: 30px;
+	}
+	.h-s-btn{
+		font-size: 12px;
+		padding: 7px 10px;
+
+	}
+	.c_prev_icon i, .c_next_icon i {
+	    font-size: 15px;
+	}
+	.scrol {
+	    margin-top: 20px;
+	    font-size: 16px;
+	}
+    /*-------------home slider section end--------------*/
+
+    /*-------------portfolio section start--------------*/
+    /*our mission*/
+    .p-sec2-bg {
+	    padding: 50px 35px 25px;
+	    text-align: center;
+	}
+    .hr{
+    	display: inline-block;
+    }
+    /*-------------portfolio section end--------------*/
+
+	/*-------------newsletter section start--------------*/
+	.newsletter {
+	    padding: 70px 20px;
+	}
+	.h2 {
+	    font-size: 20px;
+	}
+	.blog-p1 {
+	    font-size: 16px;
+	}
+	/*-------------newsletter section end--------------*/
+
+	/*-------------footer section start--------------*/
+	.footer {
+	    padding: 50px 0;
+	}
+	.footer-h2 {
+	    margin-bottom: 20px;
+	    font-size: 18px;
+	}
+	.info {
+	    margin-bottom: 20px;
+	}
+	.f-d {
+	    margin-bottom: 0;
+	}
+	.info ul {
+	    font-size: 13px;
+	}
+	.fr2-info {
+	    margin: 30px 0 20px;
+	}
+	/*-------------footer section end--------------*/
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*------common h2 & p start-------*/
+	.h2{
+		font-size: 20px;
+	}
+	.blog-p1 {
+	    font-size: 16px;
+	}
+	.hr {
+	    margin: 15px 0 20px;
+	}
+	/*------common h2 & p end-------*/
+
+	/*-------------header section start--------------*/
+	.menu {
+	    margin-top: 35px;
+	}
+	.menu ul li a{
+        text-align: left;
+	    padding: 0 0px !important;
+    }
+    /*-------------header section end--------------*/
+    /*-------------home slider section start--------------*/
+    .hero {
+	    padding: 0 0 30px;
+	}
+    .c_c_cap {
+	    bottom: 5%;
+	    text-align: left;
+	    width: 50%;
+	}
+    .c_c_cap h2 {
+	    margin: -10px 0 -5px;
+	    font-size: 16px;
+	}
+    .c_c_cap h1 {
+	    font-size: 30px;
+	}
+	.h-s-btn{
+		font-size: 13px;
+		padding: 7px 10px;
+
+	}
+	.c_prev_icon i, .c_next_icon i {
+	    font-size: 15px;
+	}
+	.scrol {
+	    margin-top: 20px;
+	    font-size: 16px;
+	}
+    /*-------------home slider section end--------------*/
+
+	/*-------------newsletter section start--------------*/
+	.h2 {
+	    font-size: 20px;
+	}
+	.blog-p1 {
+	    font-size: 16px;
+	}
+	/*-------------newsletter section end--------------*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*------common h2 & p start-------*/
+	.h2{
+		font-size: 26px;
+	}
+	.blog-p1 {
+	    font-size: 16px;
+	}
+	/*------common h2 & p start-------*/
+
+	/*-------------header section start--------------*/
+	.menu {
+	    margin-top: 35px;
+	}
+	.menu ul li a{
+        text-align: left;
+	    padding: 0 0px !important;
+    }
+    /*-------------header section end--------------*/
+    /*-------------home slider section start--------------*/
+    .hero {
+	    padding: 0 0 30px;
+	}
+    .c_c_cap {
+	    bottom: 15%;
+	    text-align: left;
+	    width: 50%;
+	}
+    .c_c_cap h2 {
+	    margin: -10px 0 -5px;
+	    font-size: 30px;
+	}
+    .c_c_cap h1 {
+	    font-size: 60px;
+	}
+	.h-s-btn{
+		font-size: 13px;
+		padding: 10px 12px;
+
+	}
+	.c_prev_icon i, .c_next_icon i {
+	    font-size: 15px;
+	}
+	.scrol {
+	    margin-top: 20px;
+	    font-size: 16px;
+	}
+    /*-------------home slider section end--------------*/
+	
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*------common h2 & p start-------*/
+	.h2{
+		font-size: 26px;
+	}
+	.blog-p1 {
+	    font-size: 20px;
+	}
+	/*------common h2 & p start-------*/
+
+	/*-------------header section start--------------*/
+	.menu {
+	    margin-top: 35px;
+	}
+	.menu ul li a{
+        text-align: left;
+	    padding: 0 0px !important;
+    }
+    /*-------------header section end--------------*/
+    /*-------------home slider section start--------------*/
+    .hero {
+	    padding: 0 0 30px;
+	}
+    .c_c_cap {
+	    bottom: 30%;
+	    text-align: left;
+	    width: 45%;
+	}
+    .c_c_cap h2 {
+	    margin: -10px 0 -5px;
+	    font-size: 35px;
+	}
+    .c_c_cap h1 {
+	    font-size: 70px;
+	}
+	.h-s-btn{
+		font-size: 13px;
+		padding: 10px 15px;
+
+	}
+	.c_prev_icon i, .c_next_icon i {
+	    font-size: 15px;
+	}
+	.scrol {
+	    margin-top: 20px;
+	    font-size: 16px;
+	}
+    /*-------------home slider section end--------------*/
+	
+}
+
+/*Extra Large devices (Extra large desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/* Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
